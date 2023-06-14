@@ -1,0 +1,54 @@
+июн. 13, 2023 10:26:34 PM methods LoggerOfClass
+INFO: Test log 1
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 5 to 1
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 7 to 1
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 10 to 9
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 100 to 2
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 100 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 100 to 7
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 100 to 96
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 100 to 63
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 100 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 5 to 1
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 10 to 2
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 10 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 10 to 7
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 96 to 63
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 96 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 5 to 1
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 9 to 2
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 9 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 9 to 7
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 63 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 7 to 2
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 8 to 7
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 10 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 5 to 2
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 9 to 8
+июн. 13, 2023 10:26:35 PM methods TempSortedArray
+INFO: sswap 5 to 2
